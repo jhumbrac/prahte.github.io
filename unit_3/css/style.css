@@ -1,0 +1,66 @@
+body {background-color: #d8dcdb;
+}
+
+h1 {
+	color: #414042;
+	font-family: Georgia, serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+h3 {
+	color: #005c98;
+	font-family: Georgia, serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h4 {
+	color: #005c98;
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+p{
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+ul{
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+li{
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+img{
+	width: 75%;
+}
+
+.headshots{
+	width: 15%;
+}
+
+.logos{
+	width: 150px;
+}
+
+#smaller{
+	width: 75px;
+}
+
+#slogan
